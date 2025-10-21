@@ -5,6 +5,11 @@ const App = () => {
       <h1>Emirhan Ertan</h1>
       <h1>johajonka</h1>
       <h1>omina</h1>
+      <h1 className='Jonkala'>
+        Turaboyev Begzod
+      </h1>
+
+    
     </div>
   );
 };
