@@ -7,6 +7,7 @@ const App = () => {
       <h1>omina</h1>
       <h1 className="Jonkala">Turaboyev Begzod</h1>
       <h1>islom</h1>
+      <h1>Muhammadrizo</h1>
     </div>
   );
 };
