@@ -2,9 +2,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      jasur 
-      Omina
-      jasurka
+      <h1>Emirhan Ertan</h1>
     </div>
   )
 }
