@@ -6,6 +6,7 @@ const App = () => {
       jasur ``                                  ``
       Omina
       jasurka
+      omina
     </div>
   )
 }
