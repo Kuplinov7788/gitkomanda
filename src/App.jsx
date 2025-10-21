@@ -7,6 +7,8 @@ const App = () => {
       Omina
       jasurka
       omina
+      <h1>omina</h1>
+      <h6>omina</h6>
     </div>
   )
 }
