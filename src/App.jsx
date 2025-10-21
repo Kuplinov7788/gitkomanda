@@ -1,12 +1,11 @@
 import React from 'react'
-
 const App = () => {
   return (
     <div>
       <h1 className='Jonkala'> 
         Turaboyev Begzod     
       </h1>
-      
+  
     </div>
   )
 }
